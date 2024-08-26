@@ -3,7 +3,7 @@
 }
 
 .tesla {
-    background-image: url(..//csss/pictures/bg\ image.avif);
+    background-image: url(../csss/pictures/bg\ image.avif);
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
