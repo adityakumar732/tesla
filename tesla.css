@@ -1,0 +1,242 @@
+* {
+    margin: 0px;
+}
+
+.tesla {
+    background-image: url(..//csss/pictures/bg\ image.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.icons>svg {
+    height: 25px;
+    width: 25px;
+}
+
+.logo>svg {
+    height: 25px;
+    width: 120px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 70px;
+    height: 60px;
+    color: white;
+}
+
+.navbar>a {
+    text-decoration: none;
+    font-size: 12px;
+    margin: 0px 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+
+
+section {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+
+}
+
+section h1 {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
+section h3 {
+    font-size: 23px;
+    display: inline;
+    border-bottom: 2px solid white;
+
+}
+
+section p {
+    font-size: 15px;
+    line-height: 2;
+    font-weight: bold;
+
+}
+
+footer {
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 350px;
+}
+
+.bt1,
+.bt2 {
+    height: 40px;
+    width: 250px;
+
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+}
+
+.bt1 {
+    background-color: #3E6aE1;
+    color: white;
+    margin: 0px 20px;
+}
+
+.header2 {
+    background-image: url(../csss/pictures/bg2.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+section h2 {
+    font-size: 50px;
+    padding-top: 50px;
+}
+
+.header3 {
+    background-image: url(../csss/pictures/bg3.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header4 {
+
+    background-image: url(../csss/pictures/bg4.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.style {
+    padding: 25px 450px;
+    height: 200px;
+    width: 330px;
+}
+
+.header5 {
+
+    background-image: url(../csss/pictures/bg5.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer5 {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: -130px;
+
+}
+
+.bt3,
+.bt4 {
+    height: 40px;
+    width: 280px;
+    background-color: #111111;
+    color: #A2A3A5;
+    font-weight: bold;
+    border-radius: 3px;
+    border: none;
+    margin: 0px 20px;
+
+}
+
+.header6 {
+
+    background-image: url(../csss/pictures/bg6.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header7 {
+
+    background-image: url(../csss/pictures/bg7.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.footer6 {
+    position: absolute;
+    margin-top: 370px;
+    margin-left: 350px;
+
+}
+
+.header8 {
+
+    background-image: url(../csss/pictures/bg8.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header9 {
+
+    background-image: url(../csss/pictures/bg9.avif);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.footer7 {
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 500px;
+
+}
+
+
+.last {
+    background-color: #111111;
+    color: white;
+    height: 90vh;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 16px;
+    padding: 25px 310px;
+}
+
+.anchor>a {
+    color: white;
+    text-decoration: none;
+    margin: 0px 5px;
+}
+
+.anchor {
+   margin-top: 15px;
+    text-align: center;
+    font-size: small;
+    font-weight: bolder;
+}
+
+
