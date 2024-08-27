@@ -90,7 +90,7 @@ footer {
 }
 
 .header2 {
-    background-image: url(../csss/pictures/bg2.avif);
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-Y-Desktop-US-v2.png);
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
@@ -104,7 +104,7 @@ section h2 {
 }
 
 .header3 {
-    background-image: url(../csss/pictures/bg3.avif);
+    background-image: url(https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Homepage-Model-X-Desktop-US.png);
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
