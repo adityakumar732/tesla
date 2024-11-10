@@ -7,7 +7,7 @@
 /* Background images and full-screen section styling */
 .tesla, .header2, .header3, .header4, .header5, .header6, .header7, .header8, .header9 {
     height: 100vh;
-    width: 100vw;
+    width: 130vw;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
